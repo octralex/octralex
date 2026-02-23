@@ -1,6 +1,6 @@
-# alex
+# alex t.
 
-co-founder at octra labs. building universal encrypted compute.
+co-founder at octra labs / building universal encrypted compute
 
 ### what i do at octra
 
