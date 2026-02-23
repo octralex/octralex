@@ -1,16 +1,26 @@
-## Hi there 👋
+# alex / octralex
 
-<!--
-**octralex/octralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+co-founder at octra labs. building universal encrypted compute.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what i do at octra
+
+- research - litepaper, whitepaper (wip), formal hfhe paper (wip)
+- gtm - fhe l1 for private compute on hypergraphs
+- dev ex - isolated encrypted execution environments (circles)
+- ecosystem - wallets, explorers, infra
+- comms - docs, socials, branding 
+
+### where i spend time
+
+london / zug / dubai
+
+### links
+
+- octra: https://octra.org
+- docs:  https://docs.octra.org
+- org github: https://github.com/octra-labs
+- x (personal): https://x.com/octralex
+- x (project):  https://x.com/octra
+- email: alex@octra.org
