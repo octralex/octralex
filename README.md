@@ -8,7 +8,7 @@ co-founder at octra labs / building universal encrypted compute
 - gtm - fhe l1 for private compute on hypergraphs
 - dev ex - isolated encrypted execution environments (circles)
 - ecosystem - wallets, explorers, infra
-- comms - docs, socials, branding 
+- comms - docs, socials, branding, marketing
 
 ### where i spend time
 
