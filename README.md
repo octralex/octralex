@@ -1,4 +1,4 @@
-# alex / octralex
+# alex
 
 co-founder at octra labs. building universal encrypted compute.
 
