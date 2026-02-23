@@ -2,8 +2,6 @@
 
 co-founder at octra labs. building universal encrypted compute.
 
----
-
 ### what i do at octra
 
 - research - litepaper, whitepaper (wip), formal hfhe paper (wip)
