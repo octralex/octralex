@@ -12,7 +12,7 @@ co-founder at octra labs / building universal encrypted compute
 
 ### where i spend time
 
-london / zug / dubai
+zug / london / dubai
 
 ### links
 
@@ -21,4 +21,4 @@ london / zug / dubai
 - org github: https://github.com/octra-labs
 - x (personal): https://x.com/octralex
 - x (project):  https://x.com/octra
-- email: alex@octra.org
+- email: alex octra org
